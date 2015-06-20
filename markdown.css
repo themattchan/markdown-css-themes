@@ -25,7 +25,7 @@ a::-moz-selection{background:rgba(255,255,0,0.3);color:#0645ad}
 a::selection{background:rgba(255,255,0,0.3);color:#0645ad}
 
 p{
-margin:1em 0;
+margin:1.5em 0;
 }
 
 img{
